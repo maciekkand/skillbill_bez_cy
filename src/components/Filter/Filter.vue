@@ -11,7 +11,7 @@ export default {
       skill3: '',
       rank3: '',
       ranks: [5, 4, 3, 2, 1],
-      skills1: ['C', 'CPP', 'Go', 'JS', 'Java', 'ObjC', 'Ruby'],
+      skills1: ['Android', 'C', 'CPP', 'Go', 'JS', 'Java', 'ObjC', 'Ruby', 'Swift'],
       skills2: [],
       skills3: [],
       title: ['Junior', 'Mid', 'Senior', 'Consultant', 'Architect'],
